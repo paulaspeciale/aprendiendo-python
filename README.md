@@ -1,2 +1,7 @@
 # aprendiendo-python
-mis primeros pasos en python
+
+hello world
+variables
+operadores
+strings
+list
