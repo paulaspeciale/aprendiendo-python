@@ -1,3 +1,4 @@
+# ----- listas -----
 # estructura de datos
 mi_lista = list()
 mi_otra_lista = []
@@ -36,3 +37,6 @@ print(mi_nueva_lista) # contiene todos los elementos, es un objeto nuevo
 mi_nueva_lista.reverse() # altera la lista original
 print(mi_nueva_lista)
 mi_nueva_lista.sort() # podemos agregar criterios de ordenación 
+
+# sublistas
+print(mi_lista[1:4])

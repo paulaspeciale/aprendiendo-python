@@ -1,3 +1,4 @@
+# ----- Strings -----
 #concatenación de stings
 print("Hola" + " Me agregas?") 
 # len() es una función del sistema
@@ -47,6 +48,7 @@ print(language.capitalize())
 print(language.upper())
 print(language.count("t"))
 print(language.isnumeric())
+
 print("1".isnumeric())
 print(language.lower())
 print(language.lower().isupper())
