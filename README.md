@@ -17,3 +17,6 @@ strings
 list
 tuples
 sets
+diccionarios
+condicionales
+bucles

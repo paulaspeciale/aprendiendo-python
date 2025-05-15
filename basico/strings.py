@@ -6,12 +6,14 @@ print("Longitud de una cadena, hola tiene :", len("Hola"), "letras.")
 
 # print("Hola" + 5) error
 print("Hola" + str(5)) 
+# -- Replicación --
 print("Que tal?"*2)
+# -- Conversión de tipo --
+str(3)
 
 my_new_line_string = "Este es un String\ncon salto de línea"
 
 # Formateo
-
 name, surname, age = "Brais", "Moure", 35
 print("Mi nombre es {} {} y mi edad es {}".format(name, surname, age))
 print("Mi nombre es %s %s y mi edad es %d" % (name, surname, age))
